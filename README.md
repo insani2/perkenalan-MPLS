@@ -12,7 +12,7 @@
   <h1>Google Drive Video Player</h1>
   <div class="video-container">
     <iframe 
-      src="https://drive.google.com/file/d/1xi8pZcy_xu9i9a67mSQc8Zr0S2q6Bgpc/preview" 
+      src="https://drive.google.com/file/d/1y9w2D-DkYBNV-fnQ1JAvuBWV--fjVQlu/view?usp=drive_link" 
       allow="autoplay"
       allowfullscreen>
     </iframe>
